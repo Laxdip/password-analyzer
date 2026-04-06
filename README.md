@@ -31,7 +31,7 @@ python run.py --interactive
 python run.py "password123" --check-breach
 
 ```
-# Usage Examples
+## Usage Examples
 ```
 python run.py "qwerty123" --verbose
 python run.py --generate --length 20
