@@ -12,6 +12,20 @@ Advanced password security analyzer with breach checking, entropy calculation, a
 - **Generate secure passwords** (cryptographically random)
 - **Interactive mode** for multiple checks
 
+## 📸 Screenshots
+
+### Help Menu
+![Help Menu](screenshots/help.png)
+
+### Interactive Mode
+![Interactive Mode](screenshots/interactive.png)
+
+### Password Analysis
+![Password Analysis](screenshots/run.png)
+
+### Verbose Analysis
+![Verbose Analysis](screenshots/verbose.png)
+
 ## Quick Start
 
 ```bash
