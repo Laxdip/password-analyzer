@@ -14,11 +14,20 @@ Advanced password security analyzer with breach checking, entropy calculation, a
 
 ## Screenshots
 
-![Help](screenshots/help.png)
-![Interactive](screenshots/interactive.png)
-![Analysis](screenshots/run.png)
-![Verbose](screenshots/verbose.png)
-![Breach Check](screenshots/runn.png)
+### Help Menu
+<img src="screenshots/help.png" width="480">
+
+### Interactive Mode
+<img src="screenshots/interactive.png" width="480">
+
+### Password Analysis
+<img src="screenshots/run.png" width="480">
+
+### Verbose Analysis
+<img src="screenshots/verbose.png" width="480">
+
+### Breach Detection
+<img src="screenshots/runn.png" width="480">
 
 ## Quick Start
 
