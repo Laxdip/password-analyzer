@@ -311,9 +311,9 @@ class PasswordChecker:
             if critical_issues:
                 print(f"\n{self.colorize('⚠️ Critical Issues:', 'red')}")
                 for issue in critical_issues[:3]:
-                    print(f"  {issue}")
+                    print(f"  {issue:<60}")
             
             print(f"\n{self.colorize('💡 Top Suggestion:', 'green')}")
-            print(f"  • {results['suggestions'][0]}")
+            print(f"  • {results['suggestions'][0]:<60}")
         
         print(self.colorize('='*60, 'cyan'))
