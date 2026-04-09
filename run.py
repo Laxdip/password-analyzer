@@ -3,7 +3,7 @@ Advanced Password Strength Detector
 Author: Prasad
 """
 
-import argparse
+i
 import sys
 import os
 from pathlib import Path
