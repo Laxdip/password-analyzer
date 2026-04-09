@@ -1,4 +1,4 @@
-# 🔐Password Strength Detector
+# Password Strength Detector
 
 Advanced password security analyzer with breach checking, entropy calculation, and pattern detection.
 
