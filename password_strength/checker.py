@@ -280,7 +280,7 @@ class PasswordChecker:
         
         # Header
         print(f"\n{self.colorize('='*60, 'cyan')}")
-        print(f"{color}Password Strength: {strength} {color}{self.colorize('='*20, 'cyan')}")
+        print(f"{color} Password Strength: {strength}")
         print(f"📊 Score: {score}/100")
         
         if verbose:
